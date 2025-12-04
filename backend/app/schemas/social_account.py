@@ -1,1 +1,0 @@
-# social account schema placeholder
