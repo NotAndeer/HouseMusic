@@ -1,1 +1,1 @@
-// HouseMusic Frontend
+export default function Home(){return <>Home</>}

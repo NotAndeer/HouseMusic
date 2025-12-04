@@ -1,1 +1,1 @@
-# HouseMusic backend entry point
+# FastAPI main file placeholder
