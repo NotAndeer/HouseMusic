@@ -1,1 +1,0 @@
-# HouseMusic backend entry point
